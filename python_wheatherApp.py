@@ -58,4 +58,4 @@ if __name__ == "__main__":
             continue
             
         # Call the function with the city and api key
-        get_weather(city, API_KEY)
+        get_weather(city, API_KEY) 
